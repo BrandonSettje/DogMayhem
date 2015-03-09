@@ -1,0 +1,12 @@
+C:\Users\Technologist SP\Documents\GitHub\CombatSimulatorV2\CheeseFinder\CheeseFinder\bin\Debug\CheeseFinder.exe.config
+C:\Users\Technologist SP\Documents\GitHub\CombatSimulatorV2\CheeseFinder\CheeseFinder\obj\Debug\CheeseFinder.csprojResolveAssemblyReference.cache
+C:\Users\Technologist SP\Documents\GitHub\CombatSimulatorV2\CheeseFinder\CheeseFinder\bin\Debug\CheeseFinder.exe
+C:\Users\Technologist SP\Documents\GitHub\CombatSimulatorV2\CheeseFinder\CheeseFinder\bin\Debug\CheeseFinder.pdb
+C:\Users\Technologist SP\Documents\GitHub\CombatSimulatorV2\CheeseFinder\CheeseFinder\obj\Debug\CheeseFinder.exe
+C:\Users\Technologist SP\Documents\GitHub\CombatSimulatorV2\CheeseFinder\CheeseFinder\obj\Debug\CheeseFinder.pdb
+C:\Users\Technologist SP\Documents\GitHub\CheeseFinder\CheeseFinder\bin\Debug\CheeseFinder.exe.config
+C:\Users\Technologist SP\Documents\GitHub\CheeseFinder\CheeseFinder\obj\Debug\CheeseFinder.exe
+C:\Users\Technologist SP\Documents\GitHub\CheeseFinder\CheeseFinder\obj\Debug\CheeseFinder.pdb
+C:\Users\Technologist SP\Documents\GitHub\CheeseFinder\CheeseFinder\bin\Debug\CheeseFinder.exe
+C:\Users\Technologist SP\Documents\GitHub\CheeseFinder\CheeseFinder\bin\Debug\CheeseFinder.pdb
+C:\Users\Technologist SP\Documents\GitHub\CheeseFinder\CheeseFinder\obj\Debug\CheeseFinder.csprojResolveAssemblyReference.cache
